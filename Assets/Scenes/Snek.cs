@@ -41,7 +41,7 @@ public class Snek : MonoBehaviour
 
     [SerializeField] float moveInterval;
     [SerializeField] float sprintSpeedMult = 1.5f;
-    [SerializeField] float speedIncrement = 0.2f;
+    [SerializeField] float speedIncrement = 0.3f;
     [SerializeField] int nApplesPerSpeedIncrement = 3;
     [SerializeField] Vector2Int startBlockPosition;
     [SerializeField] Vector2Int startApplePosition;
